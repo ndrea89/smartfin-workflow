@@ -1,10 +1,7 @@
-# portfolio
-
 # SmartFIN Loan Mobile App - BPMN 2.0 Workflow
 
 ## 📌 Project Overview
-Project ini mendokumentasikan alur kerja (business process) teknis dalam pengembangan komponen aerodinamika di tim Formula 1. Sebagai profesional dengan latar belakang **Quality Assurance**, fokus utama saya di sini adalah merancang sistem yang memiliki **resiliensi tinggi** terhadap kesalahan logika dan kegagalan data.
-
+Project ini mendokumentasikan alur kerja (business process) teknis dalam perbaikan flow mobile loan app.
 Model ini dibuat menggunakan **Camunda Modeler** dengan standar **BPMN 2.0**.
 
 ## 🛠️ Key Logic & Features
